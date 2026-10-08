@@ -1,13 +1,13 @@
 # Ecuaciones-Lineales
 ## Práctica: Método de Gauss 
-*Materia: Métodos numericos**
-*Alumno:Cordova Martinez Meraly Jessay**
-*Maestro:Victor Hugo Vasquez Herrera**
+**Materia: Métodos numericos**
+**Alumno:Cordova Martinez Meraly Jessay**
+**Maestro:Victor Hugo Vasquez Herrera**
 ## lenguaje de  Programacion utilizado:
 java.
 ## Pasos para compilar y ejecutar
 1. seleccione una terminal para la carpeta del proyecto.
-2. se compilaron todos los archivos de tanto "javaclass"".java"
+2.se compilaron todos los archivos de tanto "javaclass"".java".
 3.Se ejecutaron los programas desde la clase lanzador_gauss.
 ## Ejemplo de prueba y salida por consola
 Al ejecutar el programa con la matriz de ejemplo, la salida es:
