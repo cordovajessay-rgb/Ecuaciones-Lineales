@@ -10,9 +10,9 @@
 java.
 
 ## Pasos para compilar y ejecutar
-1. Abrir una terminal en la carpeta del proyecto.
-2. Compilar todos los archivos con: `javac *.java`
-3. Ejecutar el programa principal con: `java Lanzador_gauss`
+1. Abrió la terminal de la carpeta del proyecto en clase.
+2. Seleccione la carpeta donde se guardó la  `javaclass *.java`
+3. Se ejecuto con la   carpeta `java Lanzador_gauss`
 ## Ejemplo de prueba y salida por consola
 Al ejecutar el programa con la matriz de ejemplo, la salida es:
 "matriz ingresada"
